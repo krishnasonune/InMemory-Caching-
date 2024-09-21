@@ -3,3 +3,6 @@
 
 caching in web api to reduce response time by saving frequently access data on servers In Memory
 
+
+First API Call
+<img src="output/first_api_call.png" height="450" width="800" hspace="20" /> 
