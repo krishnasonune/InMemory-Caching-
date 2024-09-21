@@ -1,0 +1,43 @@
+[
+    {
+      "studentId": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "dateOfBirth": "2000-05-15",
+      "email": "john.doe@example.com",
+      "phone": "123-456-7890"
+    },
+    {
+      "studentId": 2,
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "dateOfBirth": "1999-04-22",
+      "email": "jane.smith@example.com",
+      "phone": "234-567-8901"
+    },
+    {
+      "studentId": 3,
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "dateOfBirth": "2001-08-30",
+      "email": "alice.johnson@example.com",
+      "phone": "345-678-9012"
+    },
+    {
+      "studentId": 4,
+      "firstName": "Bob",
+      "lastName": "Brown",
+      "dateOfBirth": "2002-02-11",
+      "email": "bob.brown@example.com",
+      "phone": "456-789-0123"
+    },
+    {
+      "studentId": 5,
+      "firstName": "Charlie",
+      "lastName": "Davis",
+      "dateOfBirth": "2000-11-05",
+      "email": "charlie.davis@example.com",
+      "phone": "567-890-1234"
+    }
+  ]
+  
